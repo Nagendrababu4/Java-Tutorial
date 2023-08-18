@@ -1,0 +1,48 @@
+
+May 29, 2023 12:06:03.812 NEW SESSION
+May 29, 2023 12:06:03.812 [14688:16132:0529/120603.808:ERROR:device_event_log_impl.cc(222)] [12:06:03.808] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 29, 2023 12:06:18.989 [14688:5704:0529/120618.989:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 29, 2023 12:07:46.343 [14688:5704:0529/120746.343:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 29, 2023 12:08:26.676 [14688:5704:0529/120826.676:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+May 30, 2023 12:18:28.981 NEW SESSION
+May 30, 2023 12:18:28.981 [23544:13900:0530/121828.976:ERROR:device_event_log_impl.cc(222)] [12:18:28.976] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 30, 2023 12:58:55.288 [23544:13900:0530/125855.286:ERROR:interface_endpoint_client.cc(696)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+May 30, 2023 14:32:13.76 NEW SESSION
+May 30, 2023 14:32:13.76 [20960:2920:0530/143213.072:ERROR:device_event_log_impl.cc(222)] [14:32:13.073] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+May 30, 2023 14:50:45.361 NEW SESSION
+May 30, 2023 14:50:45.361 [17540:24680:0530/145045.358:ERROR:device_event_log_impl.cc(222)] [14:50:45.359] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 30, 2023 15:09:23.859 [17540:12300:0530/150923.858:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 30, 2023 15:22:06.847 [17540:12300:0530/152206.847:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 30, 2023 15:26:35.871 [17540:12300:0530/152635.868:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 30, 2023 16:30:44.379 [17540:12300:0530/163044.377:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+May 30, 2023 16:46:11.880 [17540:12300:0530/164611.879:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+May 31, 2023 12:03:50.673 NEW SESSION
+May 31, 2023 12:03:50.673 [17976:6716:0531/120350.668:ERROR:device_event_log_impl.cc(222)] [12:03:50.668] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+May 31, 2023 13:16:05.718 [17976:22620:0531/131605.716:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 31, 2023 13:16:20.544 [17976:22620:0531/131620.539:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 31, 2023 13:16:23.940 [17976:22620:0531/131623.940:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+May 31, 2023 13:19:29.473 [17976:22620:0531/131929.472:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Jun 01, 2023 12:41:43.987 NEW SESSION
+Jun 01, 2023 12:41:43.987 [27548:23068:0601/124143.981:ERROR:device_event_log_impl.cc(222)] [12:41:43.979] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Jun 05, 2023 10:57:51.828 NEW SESSION
+Jun 05, 2023 10:57:51.828 [17860:11620:0605/105751.824:ERROR:device_event_log_impl.cc(222)] [10:57:51.823] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 05, 2023 11:14:03.310 [16836:15964:0605/111403.309:ERROR:device_event_log_impl.cc(222)] [11:14:03.309] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 05, 2023 11:50:14.449 [16836:6868:0605/115014.447:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Jun 07, 2023 12:59:41.39 NEW SESSION
+Jun 07, 2023 12:59:41.40 [21912:7816:0607/125941.036:ERROR:device_event_log_impl.cc(222)] [12:59:41.036] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Jun 07, 2023 16:47:24.181 NEW SESSION
+Jun 07, 2023 16:47:24.181 [14280:11108:0607/164724.178:ERROR:device_event_log_impl.cc(222)] [16:47:24.178] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 07, 2023 16:48:06.51 [14440:6952:0607/164806.050:ERROR:device_event_log_impl.cc(222)] [16:48:06.050] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 07, 2023 16:49:37.122 [2536:18044:0607/164937.122:ERROR:device_event_log_impl.cc(222)] [16:49:37.121] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jun 07, 2023 16:51:10.175 [9476:14440:0607/165110.174:ERROR:device_event_log_impl.cc(222)] [16:51:10.173] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+
+Jun 08, 2023 11:29:38.829 NEW SESSION
+Jun 08, 2023 11:29:38.830 [21876:13188:0608/112938.823:ERROR:device_event_log_impl.cc(222)] [11:29:38.822] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)

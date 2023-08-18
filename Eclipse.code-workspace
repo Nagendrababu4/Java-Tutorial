@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/matta/OneDrive/Eclipse"
+		},
+		{
+			"path": "C:/Users/matta/OneDrive/Desktop/Java"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
